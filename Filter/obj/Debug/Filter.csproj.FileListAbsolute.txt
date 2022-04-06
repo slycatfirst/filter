@@ -1,0 +1,12 @@
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\Filter.csprojAssemblyReference.cache
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\Filter.csproj.GenerateResource.cache
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\nikit\Desktop\Ngramm Курсовая\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
